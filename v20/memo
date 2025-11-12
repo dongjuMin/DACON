@@ -1,0 +1,2 @@
+B model 학습에서 "border_count": 128 을 지워봐도 변화 없음 
+A model 학습에서 "border_count": 128 를 추가하고 gpu로 돌려도 변화 없음 
